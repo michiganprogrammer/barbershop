@@ -22,8 +22,11 @@ appointments with barbers
 - 
 
 ### Barber
-- As a barber I want to see my schedule...
-- As a barber I want to block off time...
+- As a barber I want to set days off
+- As a barber I want to put a customer on list of banned
+- As a barber I want to rate customer
+- As a barber I want to take a break (set time of break)
+- As a barber I want to say I'm leaving (Emergency)
 
 ## Entities
 - User
